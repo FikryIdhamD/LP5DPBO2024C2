@@ -49,5 +49,6 @@ Terdapat textfield untuk mengisi data nim, nama dan prodi. JComboBox untuk mengi
 
 **Hapus Data**
 
-![Delete_Data](https://github.com/FikryIdhamD/LP5DPBO2024C2/assets/147605722/9335f203-01ac-4c78-8d31-282014f18a30)
 ![Delete_Data](https://github.com/FikryIdhamD/LP5DPBO2024C2/assets/147605722/03cb56e2-7d3e-4f1d-85d0-622321231156)
+![Delete_Data](https://github.com/FikryIdhamD/LP5DPBO2024C2/assets/147605722/9335f203-01ac-4c78-8d31-282014f18a30)
+
